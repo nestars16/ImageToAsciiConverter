@@ -1,0 +1,3 @@
+C:/Users/NestorMartinez/OneDrive - Quality Technology/Desktop/ASCIIConverter/out/build/CMakeFiles/ImageToAsciiConverter.dir
+C:/Users/NestorMartinez/OneDrive - Quality Technology/Desktop/ASCIIConverter/out/build/CMakeFiles/edit_cache.dir
+C:/Users/NestorMartinez/OneDrive - Quality Technology/Desktop/ASCIIConverter/out/build/CMakeFiles/rebuild_cache.dir
