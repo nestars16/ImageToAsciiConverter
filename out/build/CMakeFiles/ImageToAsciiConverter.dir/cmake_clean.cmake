@@ -1,4 +1,6 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.obj"
+  "CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.obj.d"
   "CMakeFiles/ImageToAsciiConverter.dir/main.cpp.obj"
   "CMakeFiles/ImageToAsciiConverter.dir/main.cpp.obj.d"
   "ImageToAsciiConverter.exe"
