@@ -109,6 +109,9 @@ ImageToAsciiConverter_EXTERNAL_OBJECTS =
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/main.cpp.obj
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.obj
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/build.make
+ImageToAsciiConverter.exe: C:/Users/NestorMartinez/OneDrive\ -\ Quality\ Technology/Desktop/ASCIIConverter/lib/CORE_RL_Magick++_.lib
+ImageToAsciiConverter.exe: C:/Users/NestorMartinez/OneDrive\ -\ Quality\ Technology/Desktop/ASCIIConverter/lib/CORE_RL_MagickCore_.lib
+ImageToAsciiConverter.exe: C:/Users/NestorMartinez/OneDrive\ -\ Quality\ Technology/Desktop/ASCIIConverter/lib/CORE_RL_MagickWand_.lib
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/linkLibs.rsp
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/objects1
 ImageToAsciiConverter.exe: CMakeFiles/ImageToAsciiConverter.dir/link.txt
