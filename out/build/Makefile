@@ -128,6 +128,30 @@ ImageToAsciiConverter/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\ImageToAsciiConverter.dir\build.make CMakeFiles/ImageToAsciiConverter.dir/build
 .PHONY : ImageToAsciiConverter/fast
 
+ImageParser.obj: ImageParser.cpp.obj
+.PHONY : ImageParser.obj
+
+# target to build an object file
+ImageParser.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ImageToAsciiConverter.dir\build.make CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.obj
+.PHONY : ImageParser.cpp.obj
+
+ImageParser.i: ImageParser.cpp.i
+.PHONY : ImageParser.i
+
+# target to preprocess a source file
+ImageParser.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ImageToAsciiConverter.dir\build.make CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.i
+.PHONY : ImageParser.cpp.i
+
+ImageParser.s: ImageParser.cpp.s
+.PHONY : ImageParser.s
+
+# target to generate assembly for a file
+ImageParser.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\ImageToAsciiConverter.dir\build.make CMakeFiles/ImageToAsciiConverter.dir/ImageParser.cpp.s
+.PHONY : ImageParser.cpp.s
+
 main.obj: main.cpp.obj
 .PHONY : main.obj
 
@@ -161,6 +185,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... ImageToAsciiConverter
+	@echo ... ImageParser.obj
+	@echo ... ImageParser.i
+	@echo ... ImageParser.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s
