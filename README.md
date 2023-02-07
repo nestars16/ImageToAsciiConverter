@@ -1,9 +1,9 @@
 
 
-#ImageToAsciiConverter 
+# ImageToAsciiConverter 
 
 
-##Usage
+## Usage
 
 
 To use it you can simply build the executable using the cmake and provided makefile or you can use the executable directly
